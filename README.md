@@ -21,6 +21,13 @@ Estou em transição de carreira para o desenvolvimento de software e cursando A
 Meu objetivo é unir a experiência adquirida em infraestrutura com meus novos conhecimentos em desenvolvimento para construir soluções que envolvam programação, bancos de dados, automação e, futuramente, desenvolvimento Full-Stack.
 
 ## Tecnologias e Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 - ### Em estudos / Desenvolvimento:
   - Lógica de Programação (Linguagem C)
@@ -35,6 +42,22 @@ Meu objetivo é unir a experiência adquirida em infraestrutura com meus novos c
   - Cabeamento Estruturado
   - Ambientes de Data Center / Servidores
   - Redes de Computadores
+
+- ## Meu Roadmap — Próximos 6 meses
+  
+- [x] Iniciar minha formação em ADS
+- [x] Criar meu perfil profissional no GitHub
+- [x] Desenvolver fundamentos de lógica de programação
+- [x] Iniciar estudos em C
+- [x] Aprender fundamentos de Git e GitHub
+- [ ] Consolidar meus conhecimentos em C
+- [ ] Aprofundar conhecimentos em Banco de Dados e SQL
+- [ ] Desenvolver projetos em Python
+- [ ] Aprofundar conhecimentos em HTML5 e CSS3
+- [ ] Desenvolver projetos Web
+- [ ] Publicar projetos completos no GitHub
+- [ ] Criar meu primeiro projeto integrado com Front-end, Back-end e Banco de Dados
+
 
 ## Contato
 
